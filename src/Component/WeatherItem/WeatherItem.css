@@ -1,0 +1,9 @@
+.container p {
+    display: block;
+    background-color: #5d5757c4;
+    font-weight: bold;
+    width: 50%;
+    margin: 25px auto;
+    padding: 10px 0;
+    color: white;
+}
